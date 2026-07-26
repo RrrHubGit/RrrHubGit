@@ -1,26 +1,47 @@
-```markdown
 <div align="center">
 
-# 👋 Hi, I'm Ravi Ranjan Raj
+# Hi 👋, I'm Ravi Ranjan Raj
 
-### 🚀 Full Stack Developer | Backend Enthusiast | Competitive Programmer
+### 🚀 Backend-Focused Full Stack Developer | Java | Node.js | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer+(Node.js);Java+Developer;React+Developer;500%2B+DSA+Problems+Solved;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Java+Developer;Node.js+Developer;500%2B+DSA+Problems+Solved;Always+Learning+Something+New"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=RrrHubGit&style=for-the-badge&color=0e75b6)
+<p>
+
+![](https://komarev.com/ghpvc/?username=RrrHubGit&style=for-the-badge&color=0891b2)
+
+<a href="https://github.com/RrrHubGit">
+<img src="https://img.shields.io/github/followers/RrrHubGit?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/RrrHubGit">
+<img src="https://img.shields.io/github/stars/RrrHubGit?style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering**
-- 🏛️ Cochin University of Science and Technology (CUSAT)
-- 📈 **CGPA:** **9.13**
-- 💻 Passionate about Backend Development, Full Stack Development and Problem Solving.
-- 🌱 Currently learning **Spring Boot**, **System Design**, and **Microservices**.
-- 🎯 Looking for **Software Development Internship (2027 Batch)**.
+🎓 **B.Tech Computer Science & Engineering**
+
+🏛️ **Cochin University of Science and Technology (CUSAT)**
+
+📈 **CGPA:** **9.13**
+
+💡 I enjoy building scalable backend systems, designing REST APIs, and solving complex algorithmic problems.
+
+### Currently
+
+- 🌱 Learning **Spring Boot**
+- 📚 Exploring **Microservices**
+- ⚙️ Studying **System Design**
+- 🚀 Looking for **Software Development Internship (2027 Batch)**
 
 ---
 
@@ -28,7 +49,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,bootstrap,vite,postman" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,react,mongodb,mysql,js,html,css,tailwind,cpp,c,git,github,vscode,postman,vite"/>
 
 </p>
 
@@ -36,70 +57,81 @@
 
 # 🚀 Featured Projects
 
-### 🏥 AI Rural Healthcare Platform
+## 🏥 AI Rural Healthcare Platform
 
-**React • Node.js • Express • MongoDB • JWT**
+**React • Node.js • Express • MongoDB • Python ML**
 
-- 🤖 AI-powered Symptom Checker
+### Highlights
+
+- 🤖 AI Symptom Prediction
 - 🔐 JWT Authentication
+- 🌐 REST APIs
+- 👨‍⚕️ Teleconsultation
 - 🚑 Emergency SOS
 - 💊 Medicine Reminder
-- 👨‍⚕️ Teleconsultation
 - 📚 Health Education Portal
-- 🌐 REST APIs
+- ⚡ Optimized MongoDB Queries
 
 ---
 
-### 📚 Book Review Application
+## 📚 MERN Blog Platform
+
+**React • Node.js • MongoDB**
+
+### Highlights
+
+- JWT Authentication
+- Role Based Authorization
+- CRUD Operations
+- Pagination
+- Image Upload
+- Responsive Design
+- Secure REST APIs
+
+---
+
+## 🌍 Travel Explorer
 
 **MERN Stack**
 
-- 🔐 JWT Authentication
-- ⭐ Book Ratings & Reviews
-- 📖 CRUD Operations
-- 📱 Responsive UI
+### Highlights
 
-🔗 **Live Demo:** https://book-review6.onrender.com/
-
----
-
-### 🚀 AppDost Clone
-
-**React • Tailwind CSS • Vite**
-
-- 🎨 Pixel Perfect UI
-- 📱 Responsive Design
-- ⚡ Optimized Performance
-- ♻️ Reusable Components
-
-🔗 **Live Demo:** https://task-appdostclone.vercel.app/
+- Destination Search
+- Reviews
+- Authentication
+- Responsive UI
+- MongoDB Integration
+- REST APIs
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Solved **500+ DSA Problems**
-- 🏆 HackNight'25 (VIT) Participant
-- 🥇 Google Solution Challenge 2025
-- 💻 HackerRank Problem Solving Certificate
-- 🗄️ GFG National SkillUp SQL Certificate
-- ⭐ CodeChef 3★
+🏅 500+ DSA Problems Solved
+
+⭐ CodeChef 3★
+
+🏆 Google Solution Challenge Participant
+
+💻 HackerRank Java, SQL & Problem Solving Certified
+
+🎖️ GeeksforGeeks National SkillUp Certified
+
+🏅 TCS iON Coding Assessment — **100% Score**
+
+🏆 HackNight'25 (VIT Chennai)
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RrrHubGit&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RrrHubGit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=RrrHubGit&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=RrrHubGit&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 💻 Most Used Languages
 
 <p align="center">
 
@@ -107,15 +139,43 @@
 
 </p>
 
----
-
-# 🛠️ Skills
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,bootstrap,vite,postman"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RrrHubGit&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# ⚡ Tech I'm Exploring
+
+<table>
+
+<tr>
+
+<td>☕ Spring Boot</td>
+
+<td>🏗️ Microservices</td>
+
+</tr>
+
+<tr>
+
+<td>⚙️ System Design</td>
+
+<td>🐳 Docker</td>
+
+</tr>
+
+<tr>
+
+<td>☁️ AWS</td>
+
+<td>⚡ Redis</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -128,11 +188,11 @@
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/raviranjamkxx">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 <a href="https://www.codechef.com/users/rrravi_01">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
 </a>
 
 </p>
@@ -143,29 +203,36 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ravi-ranjan-963ab0339">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:rrravipc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ravi-ranjan-963ab0339">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/RrrHubGit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Favorite Quote
+# 💭 Developer Quote
 
-> **"Code. Learn. Build. Repeat." 🚀**
+<div align="center">
+
+> **"Great software isn't just written—it's designed, optimized, and continuously improved."**
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🚀 Let's Build Something Amazing Together!
 
-**Let's connect and build something amazing together.**
+If you like my projects, consider giving them a ⭐ and let's connect to build something amazing.
 
 </div>
-```
