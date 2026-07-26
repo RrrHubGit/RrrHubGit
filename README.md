@@ -1,207 +1,127 @@
-````markdown
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Ravi Ranjan Raj
 
-### 🚀 Full Stack Developer • Backend Enthusiast • Competitive Programmer
+### 🚀 Full Stack Developer | Backend Enthusiast | Competitive Programmer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer+(Node.js);Java+Developer;React+Developer;500%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+Developer+(Node.js);Java+Developer;React+Developer;500%2B+DSA+Problems+Solved;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=RrrHubGit&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/RrrHubGit?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/RrrHubGit?style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=RrrHubGit&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-🎓 **B.Tech in Computer Science & Engineering**
-
-🏛️ **Cochin University of Science and Technology (CUSAT)**
-
-📈 **CGPA:** **9.13**
-
-💻 Passionate about designing scalable backend systems, solving challenging DSA problems, and building production-ready full-stack applications.
-
-🌱 **Currently Learning**
-
-- Spring Boot
-- System Design
-- Microservices
-- Cloud Fundamentals
-
-🎯 **2027 Graduate | Looking for SDE Internship Opportunities**
+- 🎓 **B.Tech in Computer Science & Engineering**
+- 🏛️ Cochin University of Science and Technology (CUSAT)
+- 📈 **CGPA:** **9.13**
+- 💻 Passionate about Backend Development, Full Stack Development and Problem Solving.
+- 🌱 Currently learning **Spring Boot**, **System Design**, and **Microservices**.
+- 🎯 Looking for **Software Development Internship (2027 Batch)**.
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,javascript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,bootstrap,vite,postman" />
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,netlify"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏥 AI Rural Healthcare Platform
+### 🏥 AI Rural Healthcare Platform
 
-**React.js • Node.js • Express.js • MongoDB • JWT**
+**React • Node.js • Express • MongoDB • JWT**
 
-AI-powered healthcare platform aimed at improving medical accessibility in rural areas.
-
-### Features
-
-- 🤖 AI Symptom Checker
+- 🤖 AI-powered Symptom Checker
 - 🔐 JWT Authentication
 - 🚑 Emergency SOS
 - 💊 Medicine Reminder
 - 👨‍⚕️ Teleconsultation
 - 📚 Health Education Portal
-- 🌐 Secure REST APIs
+- 🌐 REST APIs
 
 ---
 
-## 📚 Book Review Application
+### 📚 Book Review Application
 
-**MERN Stack | JWT Authentication | REST APIs**
+**MERN Stack**
 
-A modern full-stack web application where users can discover, review, and rate books.
-
-- 🔐 Secure JWT Authentication
+- 🔐 JWT Authentication
 - ⭐ Book Ratings & Reviews
-- ✍️ Complete CRUD Operations
-- 📱 Responsive React Interface
-- ⚡ Express.js + MongoDB Backend
+- 📖 CRUD Operations
+- 📱 Responsive UI
 
-### 🔗 Live Demo
-
-https://book-review6.onrender.com/
+🔗 **Live Demo:** https://book-review6.onrender.com/
 
 ---
 
-## 🚀 AppDost Clone
+### 🚀 AppDost Clone
 
-**React.js | Tailwind CSS | Vite**
+**React • Tailwind CSS • Vite**
 
-A responsive marketing website clone focused on modern UI development.
-
-- ⚡ Fast Vite Build
-- 📱 Fully Responsive
-- 🎨 Pixel Perfect Design
+- 🎨 Pixel Perfect UI
+- 📱 Responsive Design
+- ⚡ Optimized Performance
 - ♻️ Reusable Components
 
-### 🔗 Live Demo
-
-https://task-appdostclone.vercel.app/
+🔗 **Live Demo:** https://task-appdostclone.vercel.app/
 
 ---
 
 # 🏆 Achievements
 
-🏅 500+ DSA Problems Solved (LeetCode + GeeksforGeeks)
-
-🏆 HackNight'25 (VIT) – 36 Hour Hackathon Participant
-
-🥇 Google Solution Challenge 2025 Participant
-
-💻 HackerRank Problem Solving Certificate
-
-🗄️ GeeksforGeeks National SkillUp SQL Certificate
-
-⭐ CodeChef 3★
+- 🥇 Solved **500+ DSA Problems**
+- 🏆 HackNight'25 (VIT) Participant
+- 🥇 Google Solution Challenge 2025
+- 💻 HackerRank Problem Solving Certificate
+- 🗄️ GFG National SkillUp SQL Certificate
+- ⭐ CodeChef 3★
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RrrHubGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RrrHubGit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RrrHubGit&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=RrrHubGit&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 💻 Most Used Languages
 
-<div align="center">
+<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RrrHubGit&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RrrHubGit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RrrHubGit&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RrrHubGit&theme=algolia&no-frame=true&column=4"/>
-
-</div>
+</p>
 
 ---
 
 # 🛠️ Skills
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,bootstrap,vite,postman"/>
 
-</div>
+</p>
 
 ---
 
 # 🌐 Coding Profiles
 
-<div align="center">
+<p align="center">
 
 <a href="https://leetcode.com/u/rrravi_01/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -215,13 +135,13 @@ https://task-appdostclone.vercel.app/
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ravi-ranjan-963ab0339">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -231,37 +151,21 @@ https://task-appdostclone.vercel.app/
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
-
-> After enabling the GitHub Action, use the following image:
-
-```text
-https://github.com/RrrHubGit/RrrHubGit/blob/output/github-contribution-grid-snake-dark.svg
-```
-
----
-
-# 💡 Favorite Quote
-
-<div align="center">
+## 💡 Favorite Quote
 
 > **"Code. Learn. Build. Repeat." 🚀**
 
-</div>
-
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
+### ⭐ Thanks for visiting my profile!
 
-### If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+**Let's connect and build something amazing together.**
 
 </div>
-````
+```
