@@ -41,7 +41,7 @@
 - 🌱 Learning **Spring Boot**
 - 📚 Exploring **Microservices**
 - ⚙️ Studying **System Design**
-- 🚀 Looking for **Software Development Internship (2027 Batch)**
+- 🚀 Looking for **Software Development Role (2027 Batch)**
 
 ---
 
